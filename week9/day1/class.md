@@ -4,17 +4,19 @@
 
 **Work-in:**
 
-1. Group presentations
-2. Knn presentation
-3. knn.ipynb
+1. Non Linear regression presentation
+2. non-linear-regression_PolynominalFeatures
+3. SVM presentation
+4. non-linear-regression_SVM
+5. classification_svm
+6. interviews/
 
 ---------
 
 **Work-out:**
 
-4. 1.knn_exercise
-5. 2.log_regression_exercise
-6. 3.regression_classification_exercise
+7. exercises
+8. interviews/
 
 ---------
 
